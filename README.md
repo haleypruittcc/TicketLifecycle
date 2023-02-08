@@ -56,9 +56,15 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 - Login into osTicket as an Agent on the last tutorial. 
 - Next, Select the ticket we may in Step 1.
-  - Priority: "Low"
+  - Priority: "High"
     - For not having access to their persoanl emails
-- Assigned to "
+- Assigned to "Jennifer Jones"
+- SLA Plan: "SEV-B"
+    - "Personal Computer Issues"
+- Department: "System Administrators"
+    
+<h2>Step:3 Working by solving the issue </h2>     
+-  Accessibility in email as an extension of dealing with email clients with poor support.
   
 </p>
 <br />
