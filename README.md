@@ -64,15 +64,27 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Department: "System Administrators"
     
 <h2>Step:3 Working by solving the issue </h2>     
--  Accessibility in email as an extension of dealing with email clients with poor support.
+-  Jennifer working on reset the password and recovery email to access the client email account and to have a new  easily rememeber password.
+  
+<h2>Step:3 Resolution </h2>   
   
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/kiXDLf7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+    
+ <p>
+<img src="https://i.imgur.com/b9SMuQ6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<br />
+<p>
+    
+- When the issue is resolved, go ahead and got back to the ticket and reply.
+    - On the "Response Text" box : " Changing your password is necessary. Next once you changed your password, try restarting your email application and logging in and out.
+- Ticket Status: select "Resolved"
+- Click on "Post Reply"
+- Once the issue has been rectified, this ticket should now be marked as "closed."
+    
+ 🎉Congratulation! You have completed creating and resolving the ticket.!🎉
