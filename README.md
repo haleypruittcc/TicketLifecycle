@@ -38,17 +38,28 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/Z1UO8rC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
-<h2>Step:2  </h2> 
+- To login as a End User : click [here](http://localhost/osTicket/) -> Contact Information 
+    - Explain -> Email Address: "James@osticket.com"
+    - Full Name: "James.James"
+    - Hot Topic: "Personal Computer Issues" 
+    - Issue Summary: "No accessibility to email" 
+    - Details: "My email isn't accessible, or my emails fails to open."
+ - Create "Ticket"
+
+<h2>Step:2 Task and Information management </h2> 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/F9sB16e.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+- Login into osTicket as an Agent on the last tutorial. 
+- Next, Select the ticket we may in Step 1.
+  - Priority: "Low"
+    - For not having access to their persoanl emails
+- Assigned to "
+  
 </p>
 <br />
 
