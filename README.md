@@ -88,3 +88,4 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Once the issue has been rectified, this ticket should now be marked as "closed."
     
  🎉Congratulation! You have completed creating and resolving the ticket.!🎉
+ Make sure after you done delete your Resource Groups. If you don't know how to click [here](https://github.com/haleypruittcc/ResourcegroupandHelloworld)
