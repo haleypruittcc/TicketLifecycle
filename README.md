@@ -72,12 +72,12 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <br />
 
 <p>
-<img src="https://i.imgur.com/kiXDLf7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/LGDMzkp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
     
  <p>
-<img src="https://i.imgur.com/b9SMuQ6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/HhQ9U4H.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
     
